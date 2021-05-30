@@ -1,0 +1,15 @@
+.main-box{
+   display: flex;
+   background-image: linear-gradient(rgb(239, 255, 149), white);
+   height: 50vh;
+   width: 50vw;
+   justify-content: center;
+   margin: auto;
+   margin-top: 7vh;
+   text-align: center;
+}
+.title{
+   font-family: 'Squada One', cursive;
+   text-align: center;
+   /* margin-top: 12vh; */
+}
